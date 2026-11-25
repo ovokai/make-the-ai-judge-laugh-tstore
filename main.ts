@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const entry = "I like men with potential. Mine? A lamp.";
+const entry = "I was trained on your feedback, so if this joke isn't funny, that's on you — you're literally my training data.";
 
 let writtenTo = "/output/entry.txt";
 
